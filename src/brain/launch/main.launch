@@ -1,0 +1,9 @@
+<launch>
+
+  <!-- Mapper node. -->
+  <node name="main_node"
+        pkg="brain"
+        type="node_main.py"
+        output="screen">
+  </node>
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/cc/ee106a/fa17/class/ee106a-aei/ros_workspaces/FinalProject/devel
+
+Name: brain
+Description: Description of brain
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/cc/ee106a/fa17/class/ee106a-aei/ros_workspaces/FinalProject/devel/lib 
+Requires: 
