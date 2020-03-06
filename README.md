@@ -1,6 +1,6 @@
 # README #
 
-## How to conenct to baxter and start our code
+## How to connect to baxter and start our code
 
 ### Connect to the robot:
 ./baxter.sh [robotname].local
